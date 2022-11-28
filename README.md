@@ -7,6 +7,7 @@
 ## References
 
 [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line/blob/master/README.md)  
+[Conventional Comments](https://conventionalcomments.org)  
 [The Jargon File](http://www.catb.org/jargon/html/index.html)  
 
 ## Videos
