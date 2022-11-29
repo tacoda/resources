@@ -18,6 +18,7 @@
 [Mastering the Ruby Debugger](https://youtu.be/GwgF8GcynV0)  
 [The Programmer's Oath](https://skillsmatter.com/skillscasts/9503-the-programmers-oath-uncle-bob-martin)  
 [SOLID Ruby](https://youtu.be/dKRbsE061u4)  
+[Visualizing Memory Layout of Rust Data Types](https://youtu.be/rDoqT-a6UFg)  
 
 ---
 
