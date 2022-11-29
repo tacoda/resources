@@ -1,5 +1,6 @@
 # Resources
 
+[37 Signals](https://37signals.com)  
 [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line/blob/master/README.md)  
 [Conventional Comments](https://conventionalcomments.org)  
 [How to Learn Modern Rust](https://github.com/joaocarvalhoopen/How_to_learn_modern_Rust)  
